@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("Hello World! I am Andrey");
+        System.out.printf("Hello World! We're Andrey & Pedro");
 
         //Put your name on project and write some messages that you want, remember make a pull request to upload your changes.
 
